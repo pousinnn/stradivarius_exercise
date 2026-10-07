@@ -1,3 +1,3 @@
 def envio_gratis(total):
-    return total >= 900
+    return total >= 600
 
